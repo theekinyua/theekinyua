@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theekinyua
 - 👀 I’m interested in football and food...
-- 🌱 I’m currently learning  c++and java..
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  c++and java script and bootstrap
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ,through my Instagram handle@kinyuathegoat..
 
 <!---
